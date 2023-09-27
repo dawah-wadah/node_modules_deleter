@@ -51,3 +51,9 @@ This utility is open-source and released under the MIT License. You can find the
 ## Disclaimer
 
 Use this utility with caution, and always make sure to back up your data before running it. Deleting `node_modules` directories will remove dependencies, and your project may not work correctly without them.
+
+
+// add the following image to the README.md file
+![Node Modules Cleaner](
+    ./cleaned.png
+    )
